@@ -1,0 +1,114 @@
+Time Codes
+
+E abbreviation for "electronic." Eruption was determined by an electronic data logger. Most electronic times are initially reported by NPS rangers or volunteers. Some electronic times have been determined by GeyserTimes users.
+
+ie abbreviation for "in eruption." Eruption was observed, but not at the start.
+
+ns abbreviation for "near start." Eruption was observed within a minute of the actual start time.
+
+ini initial eruption for a geyser known to erupt in series
+
+maj major eruption
+
+min minor eruption
+
+wc webcam
+
+?  a questionable eruption. Observer thinks that an eruption occurred, but isn't 100% sure.
+
+A abbreviation for "approximate." The "A" designation helps GeyserTimes calculate intervals. It is understood that these intervals may be incorrect on the order of hours, or, in some cases, days or weeks if the unobserved time-period was longer than overnight. This symbol has 2 uses
+    When an eruption was observed, but a specific time was not noted. Later, it was remembered that it did erupt at approximately this time.
+    For seasoned observers: Some geysers have tell-tale signs that they erupted. Historically, these entries have simply been labeled "overnight." That is, a geyser was in observation until night-time, left unobserved, and then observed again the following morning. Between those times, it had erupted. A known eruption occurred between certain times. It is appropriate to use the "A" designation for a time half-way between observations (in rare cases, an expert observer may choose to enter a time other than half-way between observations). "A" entries should always be accompanied by a detailed note explaining the situation to future researchers.
+
+Other Terms
+
+Entrant individual that entered the eruption into the database
+
+Observer individual that observed the eruption (if different from the entrant)
+
+Baseline A marker placed on the side of a bordwalk or trail that has been measured to be a set distance away from the geyser. By standing at the marker and measuring the angle between the ground and the top of the geyser a height can be calculated.
+
+Observer Codes
+
+OFVCL-EV Old Faithful Visitor Center Log - Electronic Version
+
+RTED Ralph Taylor Electronic Data
+
+Grand Geyser Codes
+
+D#/ When the interval between Turban eruptions is 25min or greater there is a Turban Delay with the letter "D" and the number of Turban eruptions before Grand starts (such as D3/T2Q)
+
+V#/ When it is time for Turban or Turban starts, and Vent overflows but Grand does not erupt, there is a Vent Delay with the letter "V" and the number of Turban eruptions before Grand starts (such as V3/T2Q)
+
+G Grand initiated the eruption
+
+T Turban started before Grand
+
+* long 2nd burst (d>=1m15s)
+
+# long 3rd burst (d>=1m15s)
+
+C Vent & Turban continue after end of Grand
+
+Q Vent & Turban quit after end of Grand
+
+Great Fountain Terms
+
+p=# or Pause=# Pause for Great Fountain's is the length of time in minutes between the 1 meter boil (which is the official start time of the eruption) and the time of the first burst that throws water out of the crater
+
+Group Abbreviations For Unnamed Springs in Yellowstone
+
+BBG Biscuit Basin
+BSB Black Sand Basin
+CDG Cascade Group
+CGG Castle,Grand, & Sawmill Groups
+CLC Chain Lakes Complex
+CLX Culex Basin
+DSG Daisy Group
+FCG Fairy Creek Groups
+FLG Black Warrior(Firehole Lake) Group
+FTN Fountain Group
+GFG Great Fountain Group
+GHG Geyser Hill Group
+GIB Gibbon Geyser Basin
+GNT Giant Group
+GRG Grotto Group	
+HFG Heart Lake's Fissure Group
+HLG Heart Lake's Lower Group
+HMG Heart Lake's Middle Group
+HRG Heart Lake's Rustic Group
+HUG Heart Lake's Upper Group
+IMP Imperial Group
+KLD Kaleidoscope Group
+LSG Lakeshore Group
+LST Lone Star Group
+MGB Midway Geyser Basin
+MGG Morning Glory Group
+MHG Marshall's Hotel Group
+MMG Morning Mist Group
+MMS Morning Mist Springs
+MYR Myriad Group
+NBK Norris Back Basin
+NPR Norris Porcelain Basin
+OFG Old Faithful Group
+ORG Old Road Group
+OSG Orange Spring Group
+PBG Punch Bowl Group
+PIN Pine Springs
+PMG Pipeline Meadows Group
+PNK Pink Cone Group
+POT Potts Hot Spring Basin
+QAG Quagmire Group
+RSG Round Spring Group
+RVG River Group
+SDP Serendipity Springs
+SHO Shoshone Geyser Basin
+SMG Sentinel Meadows Group
+SPR Sprinkler Group
+TGG Tangled Geysers
+THD Thud Group
+UPG Upper Springs
+WCG White Creek Group
+WDG White Dome Group
+WSG Westside Group
+WTL West Thumb Lower Group
